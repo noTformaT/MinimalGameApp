@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlankApp", "BlankApp\BlankApp.vcxproj", "{755CCA9F-2E40-4178-82E0-A67D8951AD4B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameEngine", "GameEngine\GameEngine.vcxproj", "{50C0D3F2-5C51-46B2-84E0-351F0F88AC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755CCA9F-2E40-4178-82E0-A67D8951AD4B}.Debug|x64.ActiveCfg = Debug|x64
+		{755CCA9F-2E40-4178-82E0-A67D8951AD4B}.Debug|x64.Build.0 = Debug|x64
+		{755CCA9F-2E40-4178-82E0-A67D8951AD4B}.Release|x64.ActiveCfg = Release|x64
+		{755CCA9F-2E40-4178-82E0-A67D8951AD4B}.Release|x64.Build.0 = Release|x64
+		{50C0D3F2-5C51-46B2-84E0-351F0F88AC2E}.Debug|x64.ActiveCfg = Debug|x64
+		{50C0D3F2-5C51-46B2-84E0-351F0F88AC2E}.Debug|x64.Build.0 = Debug|x64
+		{50C0D3F2-5C51-46B2-84E0-351F0F88AC2E}.Release|x64.ActiveCfg = Release|x64
+		{50C0D3F2-5C51-46B2-84E0-351F0F88AC2E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57A974A-62A5-4258-BC7C-3B6A24854C28}
+	EndGlobalSection
+EndGlobal
